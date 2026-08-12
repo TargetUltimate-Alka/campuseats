@@ -1,3 +1,10 @@
+# HTTP Request/Response Log
+
+Public API used: JSONPlaceholder
+Base URL: https://jsonplaceholder.typicode.com
+
+---
+
 ## Request 1 — GET /users/1
 
 ### Command
